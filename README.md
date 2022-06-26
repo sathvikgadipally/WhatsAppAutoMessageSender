@@ -1,5 +1,5 @@
 # WhatsAppAutoMessageSender
-This is a bot through which you can schedule your whats app messages and also spam your friends sometimes.
+This is a bot through which you can schedule your whats app messages.
 
 NOTE: Make sure that you have python installed in your machine
 Follow the below steps to run the program without fail:
